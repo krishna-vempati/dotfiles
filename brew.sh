@@ -3,7 +3,6 @@
 # Make sure we're using the latest Homebrew
 brew update
 brew tap homebrew/versions
-brew tap homebrew/dupes
 
 # Upgrade any already-brew installed formulae
 brew update
