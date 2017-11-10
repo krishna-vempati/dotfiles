@@ -18,7 +18,7 @@ brew install gnu-sed --with-default-names
 brew install gawk
 brew install grep --with-default-names
 brew install bash
-brew install bash-completion
+brew install bash-completion2
 brew install htop
 
 # Install wget with IRI support

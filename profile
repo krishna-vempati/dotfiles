@@ -21,8 +21,8 @@ export PATH=$HOME/.rbenv/bin:$HOME/bin:$PATH
 if [ "$(uname)" == "Darwin" ]; then
   export PATH=$PATH:/usr/local/opt/coreutils/bin:/usr/local/opt/findutils/libexec/gnubin
   export MANPATH=/usr/local/opt/coreutils/libexec/gnuman:$MANPATH
-  if [ -f $(brew --prefix)/etc/bash_completion ]; then
-    . $(brew --prefix)/etc/bash_completion
+  if [ -f $(brew --prefix)/share/bash-completion/bash_completion ]; then
+    . $(brew --prefix)/share/bash-completion/bash_completion
   fi
 fi
 

@@ -1,3 +1,5 @@
+alias pip="pip2"
+alias python="python2"
 alias find="gfind"
 alias locate="glocate"
 alias udpatedb="gupdatedb"
