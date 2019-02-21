@@ -1,6 +1,6 @@
 [user]
-  name = kenstam
-  email = ken.stam@versapay.com
+  name = krishna-vempati
+  email = krishna.vempati@versapay.com
 [alias]
   hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
   co = checkout
