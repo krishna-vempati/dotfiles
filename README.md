@@ -9,6 +9,7 @@
     ln -s dotfiles/gitconfig .gitconfig
     ln -s dotfiles/gitignore .gitignore
     ln -s dotfiles/git-prompt .git-prompt
+    ln -s dotfiles/git-completion .git-completion
     ln -s dotfiles/vimrc .vimrc
 
     ln -s .profile .bash_profile
